@@ -18,7 +18,7 @@
     <string role="key" value="_storageName"></string>
     <string value="pie_pagina.png"></string>
     <string role="key" value="_userName"></string>
-    <string value="D:\\facebook avatares\\pie_pagina.png"></string>
+    <string value="pie_pagina.png"></string>
     <string role="key" value="checksum"></string>
     <string value="433e1b99f46b83f6be8fddd8a6c3fe8f"></string>
     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -132,7 +132,8 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 style=&quot;text-align: left;&quot;&gt;&lt;cite&gt;Mediante los lenguajes de programación se desarrollan habilidades cognitivas y socio-emocionales.&lt;/cite&gt;&lt;/h2&gt;
-&lt;h4 class=&quot;title-banner-h1&quot;&gt;&lt;a href=&quot;https://scratch.mit.edu/download&quot;&gt;Editor offline de Scratch&lt;/a&gt;&lt;/h4&gt;"></unicode>
+&lt;h1 class=&quot;title-banner-h1&quot;&gt;&lt;a href=&quot;https://scratch.mit.edu/download/scratch2&quot;&gt;Editor offline de Scratch 2.0&lt;/a&gt;&lt;/h1&gt;
+&lt;h1&gt;&lt;a href=&quot;https://scratch.mit.edu/download&quot;&gt;Editor offline de Scratch 3.0&lt;/a&gt;&lt;/h1&gt;"></unicode>
           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
           <int value="4"></int>
           <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -155,7 +156,7 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="nextImageId"></string>
           <int value="0"></int>
           <string role="key" value="parentNode"></string>
-          <none></none>
+          <reference key="4"></reference>
          </dictionary>
         </instance>
         <string role="key" value="edit"></string>
@@ -254,7 +255,7 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;h2&gt;Ejecutarlo en su versión&lt;span&gt; &lt;/span&gt;&lt;strong&gt;online&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;a través de un navegador&lt;span&gt; &lt;/span&gt;&lt;a href=&quot;https://scratch.mit.edu/projects/editor/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;desde la página web oficial&lt;/a&gt;. Si eliges la modalidad online es muy recomendable registrarse para poder guardar los proyectos que crees y tenerlos siempre a tu disposición.&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2&gt;&lt;a href=&quot;https://scratch.mit.edu/scratch2download/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Descarga e instala&lt;/a&gt;&lt;span&gt; &lt;/span&gt;Scratch en su versión&lt;span&gt; &lt;/span&gt;&lt;strong&gt;offline&lt;/strong&gt;, para ejecutarlo sin necesidad de navegador ni de conexión a Internet.&lt;/h2&gt;
+&lt;h2&gt;&lt;a href=&quot;https://scratch.mit.edu/download/scratch2&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Descarga e instala&lt;/a&gt;&lt;span&gt; &lt;/span&gt;Scratch en su versión&lt;span&gt; &lt;/span&gt;&lt;strong&gt;offline&lt;/strong&gt;, para ejecutarlo sin necesidad de navegador ni de conexión a Internet.&lt;/h2&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 style=&quot;text-align: left;&quot;&gt; &lt;/h2&gt;
@@ -265,7 +266,9 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;p&gt; &lt;/p&gt;
 &lt;h2 style=&quot;text-align: left;&quot;&gt;&lt;em class=&quot;fa fa-code&quot;&gt; &lt;/em&gt;¿Qué es un algoritmo?&lt;/h2&gt;
 &lt;h2 style=&quot;text-align: left;&quot;&gt;En matemáticas, lógica, ciencias de la computación y disciplinas relacionadas, un algoritmo es un&lt;span&gt; &lt;/span&gt;&lt;strong&gt;conjunto prescrito de instrucciones o reglas bien definidas&lt;/strong&gt;,&lt;span&gt; &lt;/span&gt;&lt;strong&gt;ordenadas y finitas&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;que permite realizar una actividad mediante pasos sucesivos que no generen dudas a quien deba realizar dicha actividad.&lt;/h2&gt;
-&lt;h2 style=&quot;text-align: left;&quot;&gt;Dados un estado inicial y una entrada, siguiendo los pasos sucesivos se llega a un estado final y se obtiene una solución.&lt;/h2&gt;"></unicode>
+&lt;h2 style=&quot;text-align: left;&quot;&gt;Dados un estado inicial y una entrada, siguiendo los pasos sucesivos se llega a un estado final y se obtiene una solución.&lt;/h2&gt;
+&lt;h1 class=&quot;title-banner-h1&quot;&gt;&lt;a href=&quot;https://scratch.mit.edu/download/scratch2&quot;&gt;Editor offline de Scratch 2.0&lt;/a&gt;&lt;/h1&gt;
+&lt;h1&gt;&lt;a href=&quot;https://scratch.mit.edu/download&quot;&gt;Editor offline de Scratch 3.0&lt;/a&gt;&lt;/h1&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -288,7 +291,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="7"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -423,7 +426,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="10"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -567,7 +570,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="13"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -691,7 +694,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="16"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -811,7 +814,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="19"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -935,7 +938,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="22"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -1061,7 +1064,7 @@ and select the size of the area to display it in."></unicode>
   <string role="key" value="compatibleWithVersion9"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="22"></reference>
+  <reference key="7"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -1104,7 +1107,7 @@ and select the size of the area to display it in."></unicode>
   <string role="key" value="exportSource"></string>
   <bool value="1"></bool>
   <string role="key" value="footer"></string>
-  <unicode value="ISFD.Gdor.Virasoro.Ctes---Profesor de la cátedra: Recalde Juan Jose----Ayudante de cátedra: Togachinky Daniel (4to año Profesorado de Informática)"></unicode>
+  <unicode value="ISFD.Gdor.Virasoro.Ctes----Profesor de la cátedra: Recalde Juan Jose-----Ayudante de cátedra: Togachinky Daniel "></unicode>
   <string role="key" value="isLoading"></string>
   <bool value="0"></bool>
   <string role="key" value="license"></string>
@@ -1378,7 +1381,98 @@ and select the size of the area to display it in."></unicode>
     <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
      <dictionary>
       <string role="key" value="contribute"></string>
-      <list></list>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2020-10-09T12:11:25.00-03:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN: EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOMv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
       <string role="key" value="identifier"></string>
       <list></list>
       <string role="key" value="language"></string>
@@ -1728,7 +1822,98 @@ and select the size of the area to display it in."></unicode>
     <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
      <dictionary>
       <string role="key" value="contribute"></string>
-      <list></list>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2020-10-09T12:11:25.00-03:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN: EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOM-ESv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
       <string role="key" value="identifier"></string>
       <list></list>
       <string role="key" value="language"></string>
